@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on data science, statistics or phyisics proyect.
 - 📫 cdberganza@proton.me
 - 😄 Spanish 99% - English 66%
-- ⚡ I earned a bachelor's degree in electronics and comunicatios engineering from Instituto Politecnico Nacional of Mexico
+- ⚡ I earned a bachelor's degree in electronics and communicatios engineering from Instituto Politecnico Nacional of Mexico
 
